@@ -6,7 +6,7 @@ Craft Gutenberg blocks is not easy if you don't use Webpack or any Javascript. W
 
 - Hero Homepage
 
-![Hero Homepage Preview](hero-homepage/screenshot-tablet.png)
+![Hero Homepage Preview](hero-homepage/screenshot-desktop.png)
 
 ## How to use?
 
