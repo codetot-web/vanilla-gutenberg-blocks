@@ -2,6 +2,12 @@
 
 Craft Gutenberg blocks is not easy if you don't use Webpack or any Javascript. We know it's required skill to do that, however sometimes we just need a great layout with content, such as normal landing pages. This repository contains some of best blocks we made, with or without plugins.
 
+## Available Blocks
+
+- Hero Homepage
+
+![Hero Homepage Preview](hero-homepage/screenshot-tablet.png)
+
 ## How to use?
 
 - Change a editor mode to Code Editor
